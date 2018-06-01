@@ -29,7 +29,7 @@ public class Exercize_2_14Controller {
 				} catch (InterruptedException ex) {
 					ex.printStackTrace();
 				}
-				//----------------------------------
+				//---------------------------------- End
 				Button_Start.setVisible(false);
 				Picture_Loading.setVisible(false);
 				LabelArea.setVisible(true);
