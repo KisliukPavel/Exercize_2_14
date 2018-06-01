@@ -23,7 +23,7 @@ public class Exercize_2_14Controller {
 				//----------------------------------
 				Picture_Loading.setVisible(true);
 				Button_Start.setDisable(true);
-				//----------------------------------
+				//---------------------------------- Imitation of loading
 				try {
 					Thread.sleep(2000);
 				} catch (InterruptedException ex) {
